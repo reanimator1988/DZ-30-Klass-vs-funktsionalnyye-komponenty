@@ -2,7 +2,7 @@
   "name": "dz-30",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://reanimator1988.github.io/TEST",
+  "homepage": "https://reanimator1988.github.io/DZ-30-Klass-vs-funktsionalnyye-komponenty",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
